@@ -1,29 +1,14 @@
-# JupyterLite Demo
+# Fedlex Tutorial
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+This repository serves as a introductory tutorial to the [Fedlex Linked Data ecosystem](https://fedlex.data.admin.ch).
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## JupyterLite Notebook
 
-## ✨ Try it in your browser ✨
+![lite-badge](https://jupyterlite.readthedocs.io/en/latest/_static/wordmark.svg)
 
-➡️ **https://jupyterlite.github.io/demo**
+The tutorial uses an **interactive JupyterLite notebook**. JupyterLite stems from JupyterLab with the advantage of being completely browser based. To start the notebook, just click on the following link: https://bequrios.github.io/fedlex/lab?path=Fedlex.ipynb
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+If you are unfamiliar with the handling of Jupyter notebooks, here are two useful resources:
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+- [The JupyterLab Interface](https://jupyterlab.readthedocs.io/en/stable/user/interface.html)
+- [The Jupyter Notebook](https://jupyterlab.readthedocs.io/en/stable/user/notebook.html)
