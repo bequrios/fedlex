@@ -4,8 +4,7 @@
       "disabledExtensions": [
         "@jupyterlab/drawio-extension",
         "jupyterlab-kernel-spy",
-        "jupyterlab-tour",
-        "jupyterlab-tour:default-tours": true
+        "jupyterlab-tour"
       ]
     }
   }
