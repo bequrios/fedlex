@@ -6,7 +6,7 @@ This repository serves as a introductory tutorial to the [Fedlex Linked Data eco
 
 ![lite-badge](https://jupyterlite.readthedocs.io/en/latest/_static/wordmark.svg)
 
-The tutorial uses an **interactive JupyterLite notebook**. JupyterLite is a variant of JupyterLab with the advantage of being completely browser based. To start the notebook, just click on the following link: https://bequrios.github.io/fedlex/lab?path=Fedlex.ipynb
+The tutorial uses an **interactive JupyterLite notebook**. JupyterLite is a variant of JupyterLab with the advantage of being completely browser based. To start the notebook, just click on the following link: https://bequrios.github.io/fedlex/lab?path=Tutorial.ipynb
 
 If you are unfamiliar with the handling of Jupyter notebooks, here are two useful resources:
 
