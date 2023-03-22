@@ -48,7 +48,7 @@ async def query(query_string, store = "L"):
         if resp.status == 400:
             raise RuntimeError("Response status 400: Possible malformed SPARQL query. No syntactic advice available.")
         else:
-            raise RuntimeError("Response status " + resp.status)
+            raise RuntimeError("Response status " + str(resp.status))
             
             
 def display_result(df):
