@@ -41,7 +41,7 @@ async def query(query_string, store = "L"):
             raise RuntimeError("SPARQL query malformed: " + res)
         else:
             # if everything works out, create a pandas dataframe from the csv result
-            df = pd.read_csv(StringIO(res))
+            df = pd.read_csv(StringIO(res),dtype=str, keep_default_na=False, na_values='')
             return df
     else:
         # fedlex.data.admin.ch throws error with response status 400
