@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="SRrs_ta1pIiSuB_7zpYr" name="Seite-1">
-        <mxGraphModel dx="796" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="2516" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -55,7 +55,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="84" value="jolux:descriptionTo" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="56" target="83">
+                <mxCell id="84" value="jolux:descriptionTo" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="56" target="83" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="56" value="fedlex:cc/1977/1352_1352_1352/text/20170601/citation/3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -110,10 +110,10 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="80" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+                <mxCell id="80" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="77">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="648" y="380" as="sourcePoint"/>
-                        <mxPoint x="738" y="380" as="targetPoint"/>
+                        <mxPoint x="720" y="380" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="81" value="&lt;div&gt;rdf:type&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="80" vertex="1" connectable="0">
@@ -121,7 +121,7 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="83" value="&lt;span style=&quot;&quot;&gt;Art.10 Internatinale Vereinbarungen&lt;br&gt; &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" vertex="1" parent="1">
+                <mxCell id="83" value="&lt;span style=&quot;&quot;&gt;Art.10 Internatinale Vereinbarungen&lt;br&gt; &lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
                     <mxGeometry x="710" y="600" width="216" height="40" as="geometry"/>
                 </mxCell>
             </root>
