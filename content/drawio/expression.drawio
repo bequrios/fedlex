@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="UD7f_GDpLrzFLFT0o44G" name="Page-1">
-        <mxGraphModel dx="1459" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="796" dy="893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -36,18 +36,12 @@
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="21" value="jolux:title" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="20" edge="1">
+                <mxCell id="21" value="jolux:title" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="14" target="20" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="22" value="jolux:titleShort" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="24" edge="1">
+                <mxCell id="22" value="jolux:titleShort" style="edgeStyle=orthogonalEdgeStyle;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="24" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="480" y="390" as="targetPoint"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="25" value="jolux:historicalLegalId" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="14" target="26" edge="1">
-                    <mxGeometry x="0.062" y="-9" relative="1" as="geometry">
-                        <mxPoint x="180" y="560" as="targetPoint"/>
-                        <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="14" value="fedlex:cc/1999/404/de" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -60,13 +54,10 @@
                     <mxGeometry x="400" y="260" width="160" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="20" value="Bundesverfassung der Schweizerischen Eidgenossenschaft vom 18. April 1999" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-                    <mxGeometry x="90" y="420" width="220" height="50" as="geometry"/>
+                    <mxGeometry x="30" y="340" width="220" height="50" as="geometry"/>
                 </mxCell>
                 <mxCell id="24" value="BV" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-                    <mxGeometry x="320" y="425" width="60" height="40" as="geometry"/>
-                </mxCell>
-                <mxCell id="26" value="101" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="1" vertex="1">
-                    <mxGeometry x="20" y="425" width="60" height="40" as="geometry"/>
+                    <mxGeometry x="260" y="345" width="60" height="40" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
