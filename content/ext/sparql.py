@@ -36,7 +36,7 @@ async def query(query_string, store = "L", set_na = False):
         if '{"message":' in res:
             error = json.loads(res)
             raise RuntimeError("SPARQL query malformed: " + error["message"])
-        # geo.ld.admin.ch throws errors starting with 'Parse error:'
+        # geo.ld.admin.ch throws errors starting with 'Parse error:'...
         elif 'Parse error:' in res:
             raise RuntimeError("SPARQL query malformed: " + res)
         else:
